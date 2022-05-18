@@ -3,7 +3,7 @@
 
     The word Photography literally means 'drawing with light', which derives from the Greek photo, meaning light and graph, meaning to draw. 
 
-🖼 Essentially, the purpose of photography is to communicate and document moments in time. When you take a photograph and share it with others, you're showing a moment that was frozen through a picture. This moment can tell someone many things, from the environment to what people are doing.This project aims to provide knowledge about photography. With the use of this platform, we can share tips and tutorials on how to achieve great photos. We want to be a part of your achievements and success in the field of photography.
+🖼 Essentially, the purpose of photography is to communicate and document moments in time. When you take a photograph and share it with others, you're showing a moment that was frozen through a picture. This moment can tell someone many things, from the environment to what people are doing.This project aims to provide knowledge about photography. With the use of this platform, we can share tips and tutorials on how to achieve great photos. We want to be a part of your achievements and success in the field of photography. We also want to encourage and inspire others in terms of photography.
 
 
 ## 🧠FAQs(Frequently Asked Questions)🧠
@@ -47,5 +47,6 @@ For example, the following two images were taken at the same time. These are mer
 ## Special Thanks to😇🙏
 
  - [Awesome Readme editor](https://readme.so/)
- - [How to write a Good readme](https://www.makeareadme.com/
+ - [How to write a Good readme](https://www.makeareadme.com/)
+
 
