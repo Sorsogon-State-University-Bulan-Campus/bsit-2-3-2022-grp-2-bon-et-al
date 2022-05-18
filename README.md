@@ -28,6 +28,13 @@ For example, the following two images were taken at the same time. These are mer
 
 ###  🤔 Do I have to be in business to be called a pro?
 ✍✍✍ No!! There are many photographers who are not in business and they are incredible! You absolutely do not need to be in business to be respected or taken seriously.
+
+###  🤔 What is the difference between JPG and RAW?
+✍✍✍ JPG is the most common file format for digital photographs. Your camera can be set to shoot and store the images you make in varying sizes of JPG. The thing with JPG is that a lot of detail is lost when the image is shot this way.
+
+When a JPG image is taken, the camera does some automatic processing which varies with make and model of camera. When you go to edit an image shot in JPG you do not have as much data to work with, and it can be hard to recover improperly exposed parts of photos. It also gives you less control in post processing in the way of color.
+
+RAW files are uncompressed and unprocessed shots of all of the detail available to the camera sensor. RAW files are completely unedited and need to be post processed.
  
 
 ## 👨‍⚖️Authors
