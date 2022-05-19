@@ -3,7 +3,9 @@
 
 ## 📚Website Link:
 
+### 🌐 [Moonlight Photography](https://sorsogon-state-university-bulan-campus.github.io/bsit-2-3-2022-grp-2-bon-et-al/)
 - 🔗https://sorsogon-state-university-bulan-campus.github.io/bsit-2-3-2022-grp-2-bon-et-al/
+
 
     The word Photography literally means 'drawing with light', which derives from the Greek photo, meaning light and graph, meaning to draw. 
 
@@ -44,7 +46,7 @@ RAW files are uncompressed and unprocessed shots of all of the detail available 
 ## 👨‍⚖️Authors
 
 - Gisalan, Kenneth L. ([@kennneth05](https://www.github.com/kennneth05))
-- Bon, Bryle Nicole g. ([@BryleBon1](https://www.github.com/BryleBon1))
+- Bon, Bryle Nicole G. ([@BryleBon1](https://www.github.com/BryleBon1))
 - Villasis, Elysa Mae H. ([@VillasisElysamae](https://www.github.com/VillasisElysamae))
 
 
@@ -55,9 +57,9 @@ RAW files are uncompressed and unprocessed shots of all of the detail available 
 - 🔗https://www.theclickcommunity.com/blog/the-10-most-common-photography-questions-answered/
 
 
-## Special Thanks to😇🙏
+## Special Thanks to😇🙏 
 
- - [Awesome Readme editor](https://readme.so/)
- - [How to write a Good readme](https://www.makeareadme.com/)
+ - [Awesome Readme.md file editor](https://readme.so/)
+ - [How to write a Good readme.md file](https://www.makeareadme.com/)
 
 
